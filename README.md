@@ -7,3 +7,4 @@ Utilizes `Selenium` library in python.
 To install Selenium:
 ```pip install selenium``` in terminal window
 
+Open to improvements!! 😊
