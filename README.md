@@ -1,2 +1,2 @@
-# Auto Login Platform
- Automatically logs you in into your favorite social media/websites platforms! 
+# Auto AP Classroom Login
+ Automatically logs you in into AP classroom
