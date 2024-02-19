@@ -5,5 +5,5 @@
 
 Utilizes `Selenium` library in python.
 To install Selenium:
-```pip install selenium```
+```pip install selenium``` in terminal window
 
